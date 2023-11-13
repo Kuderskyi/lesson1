@@ -5,4 +5,8 @@ This is branch develop
 
 Conflict 4
 
+<<<<<<< .merge_file_7vBz4b
 This another conflict line
+=======
+This is conflict line
+>>>>>>> .merge_file_ZnOZwG
